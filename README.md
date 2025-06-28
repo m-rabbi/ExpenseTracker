@@ -1,6 +1,6 @@
 # 💸 ExpenseTracker — SwiftUI MVVM App
 
-An iOS expense tracking app built using **SwiftUI** and **MVVM architecture**. This project is based on the tutorial by [Rebeloper](https://youtu.be/Bu6fAlltatA?si=hhcMM85ZsQJ7oXem), with enhancements and custom UI.
+An iOS expense tracking app built using **SwiftUI** and **MVVM architecture**. This project is based on the tutorial by [DesignCode](https://youtu.be/Bu6fAlltatA?si=hhcMM85ZsQJ7oXem), with enhancements and custom UI.
 
 ---
 
