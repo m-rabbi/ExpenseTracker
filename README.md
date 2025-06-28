@@ -26,8 +26,8 @@ ExpenseTracker/
 
 ## 🛠️ Tech Stack
 
-- Swift 5.9+  
-- SwiftUI 3  
+- Swift  
+- SwiftUI  
 - MVVM pattern  
 - JSON decoding  
 - Apple SF Symbols  
@@ -50,15 +50,6 @@ ExpenseTracker/
 
 ---
 
-## 🧪 What You'll Learn (from the original tutorial)
-
-- Using JSON data locally  
-- Creating reusable SwiftUI components  
-- MVVM best practices for SwiftUI  
-- Styling charts and dashboards  
-- Date formatting & string interpolation  
-
----
 
 ## 📦 Assets & Data
 
@@ -70,7 +61,6 @@ ExpenseTracker/
 ## 🙋‍♂️ Author
 
 Md Fazly Rabbi  
-Based on tutorial by [Rebeloper](https://youtube.com/rebeloper)  
 
 ---
 
